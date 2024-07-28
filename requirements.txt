@@ -5,3 +5,4 @@ setuptools==70.0.0
 streamlit
 cv2
 time
+opencv-python-headless
