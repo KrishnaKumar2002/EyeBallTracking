@@ -4,7 +4,9 @@ setuptools==70.0.0
 streamlit
 cv2
 time
-
+opencv-python-headless
+opencv-python==4.10.0.82
 libgl1-mesa-glx
 libglib2.0-0
 opencv-contrib-python-headless
+Pillow
