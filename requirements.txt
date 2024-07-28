@@ -6,4 +6,5 @@ cv2
 time
 opencv-python-headless
 opencv-python==4.10.0.82
-pip
+libgl1-mesa-glx
+libglib2.0-0
