@@ -6,4 +6,4 @@ streamlit
 cv2
 time
 opencv-python-headless
-python
+python==3.12
