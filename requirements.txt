@@ -5,4 +5,5 @@ streamlit
 cv2
 time
 opencv-python-headless
-python==3.12
+opencv-python==4.10.0.82
+pip
